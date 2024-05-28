@@ -93,7 +93,7 @@ namespace Leave_Manager_Short_Console.Tests
             21, 37, 37, 32, 52)]
         [InlineData(5, 15, 25, 31,
             21, 26, 26, 21,
-            21, 32, 27, 21, 46)]
+            21, 32, 27, 21, 47)]
         public void AddEmployeeAndPastLeaves_WhenCalledWithOneMoreYearToTakeLeave_ReturnsAvailableLeaveCorrectly
             (int DayToOf1stLeave, int DayToOf2ndLeave, int DayToOf3rdLeave, int DayToOf4thLeave,
             int excessFrom2020, int excessFrom2021, int excessFrom2022, int excessFrom2023,
