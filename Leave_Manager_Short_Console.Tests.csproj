@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Inewi_Short\Inewi_Short.csproj" />
+    <ProjectReference Include="..\Leave_Manager_Short_Console\Leave_Manager_Short_Console.csproj" />
   </ItemGroup>
 
   <ItemGroup>

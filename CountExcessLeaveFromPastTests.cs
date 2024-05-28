@@ -1,7 +1,7 @@
-﻿using Inewi_Short.Entities;
+﻿using Leave_Manager_Short_Console.Entities;
 using Moq;
 
-namespace Inewi_Short.Tests
+namespace Leave_Manager_Short_Console.Tests
 {
     public class CountExcessLeaveFromPastTests : IDisposable
     {
